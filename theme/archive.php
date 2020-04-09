@@ -16,11 +16,12 @@
 		<div class="page-content-container">
 			<?php if (have_posts()) : ?>
 				<h1 class="page-title">
-					分类：
 					<?php
 					if (is_category()) {
+						echo "分类：";
 						single_cat_title();
 					} elseif (is_tag()) {
+						echo "标签：";
 						single_tag_title();
 					} elseif (is_author()) {
 						the_post();

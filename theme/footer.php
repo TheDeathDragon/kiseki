@@ -13,9 +13,9 @@
 	</div> -->
 
 	<div class="share">
-		<div><a href="#" rel="nofollow" class="no-barba"><i class="fab fa-github"></i></a></div>
-		<div><a href="#" target="_blank" class="no-barba"><i class="fab fa-weibo"></i></a></div>
-		<div><a href="#" class="no-barba"><i class="fab fa-steam-square"></i></a></div>
+		<div><a href="https://github.com/TheDeathDragon" rel="nofollow" class="no-barba"><i class="fab fa-github"></i></a></div>
+		<div><a href="https://t.me/MyDarlingOVO" target="_blank" class="no-barba"><i class="fab fa-telegram-plane"></i></a></div>
+		<div><a href="https://steamcommunity.com/id/DarlingDarling" class="no-barba"><i class="fab fa-steam-square"></i></a></div>
 	</div>
 	<!-- // .share -->
 
@@ -60,21 +60,6 @@
 	console.info("Sora No Kiseki")
 </script>
 <script src="//cdn.jsdelivr.net/npm/pjax/pjax.min.js"></script>
-<!-- <script src="https://www.falcom.co.jp/hajimari/js/global.min.js?v=20040312"></script> -->
-<!-- <script src="https://www.falcom.co.jp/lib/three.js/r110/build/three.min.js"></script>
-<script src="https://www.falcom.co.jp/lib/three.js/r110/examples/js/libs/stats.min.js"></script>
-<script src="https://www.falcom.co.jp/lib/three.js/r110/examples/js/controls/OrbitControls.js"></script>
-<script src="https://www.falcom.co.jp/lib/three.js/r110/examples/js/shaders/CopyShader.js"></script>
-<script src="https://www.falcom.co.jp/lib/three.js/r110/examples/js/shaders/DigitalGlitch.js"></script>
-<script src="https://www.falcom.co.jp/lib/three.js/r110/examples/js/postprocessing/EffectComposer.js"></script>
-<script src="https://www.falcom.co.jp/lib/three.js/r110/examples/js/postprocessing/ShaderPass.js"></script>
-<script src="https://www.falcom.co.jp/lib/three.js/r110/examples/js/postprocessing/RenderPass.js"></script>
-<script src="https://www.falcom.co.jp/lib/three.js/r110/examples/js/postprocessing/OutlinePass.js"></script>
-<script src="https://www.falcom.co.jp/lib/three.js/r110/examples/js/geometries/LightningStrike.js"></script>
-<script src="https://www.falcom.co.jp/lib/three.js/r110/examples/js/effects/OutlineEffect.js"></script>
-<script src="https://www.falcom.co.jp/lib/three.js/r110/examples/js/math/SimplexNoise.js"></script>
-<script src="https://www.falcom.co.jp/hajimari/js/CustomGlitchPass.min.js?20040312"></script>
-<script src="https://www.falcom.co.jp/hajimari/js/three.min.js?20040312"></script> -->
 </body>
 
 </html>

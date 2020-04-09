@@ -47,7 +47,6 @@
         min-height: 180px;
     }
     .post-meta {
-        padding-top: 0 !important;
         clear: both;
         box-shadow: rgba(0, 0, 0, 0.6) 0 5px 5px -5px inset;
     }
@@ -66,11 +65,13 @@
     transition: all .6s ease;
 }
 
-.post-inner, .post-meta {
+.post-inner{
     padding: 20px 20px 0;
 }
-.post-cat a,.post-tag a,i{
+.post-meta {
+    padding: 3px 20px 3px;
 }
+
 .post-cat a:hover,.post-tag a:hover,.post-info-more:hover,i:hover {
     text-shadow: 0 0 10px #fff;
 }
@@ -104,7 +105,7 @@
 }
 
 .page-content-bg {
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
 
 .page-content-article .wp-post-image {
@@ -240,6 +241,9 @@ article .wp-block-verse {
     }
     .single-content-comments-bg {
         margin: 10px 0;
+    }
+    .post-cat,.post-tag{
+        display: none;
     }
 }
 
